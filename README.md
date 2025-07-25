@@ -177,7 +177,3 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 * **Abhisek Panda** – [GitHub](https://github.com/abhisek2004)
 * Team: *SmartCare Ninjas*
-
----
-
-Would you like me to generate the actual **code files (`model.py`, `preprocess.py`, etc.)** or a **Streamlit app** version next?
