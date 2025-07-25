@@ -1,10 +1,18 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 # Learnathon_BFSI
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## TEAM (SC1)4TH_10
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 🚗 AI-Powered Fraud Detection in Auto Insurance
 
 ## 🧠 Predictive Modeling for Smarter Claims Management
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # Team Information: 4TH_TEAM_10
 
@@ -14,6 +22,8 @@
 | Soumya Ranjan Mohapatra  | CSE        | 4th Year  | 22CSE215   | 22UG010348     | 22cse215.soumyaranjanmohapatra@giet.edu    | 4TH_TEAM_10 |
 | Debabrata Mishra         | CSE        | 4th Year  | 22CSE140   | 22UG010273     | 22cse140.debabratamishra@giet.edu          | 4TH_TEAM_10 |
 | Abhisek Panda            | CSE        | 4th Year  | 22CSE072   | 22UG010159     | 22cse072.abhisekpanda@giet.edu             | 4TH_TEAM_10 |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 📌 Overview
 The **AI-Powered Fraud Detection in Auto Insurance** project leverages advanced machine learning (ML) techniques to identify fraudulent claims in the auto insurance industry. Insurance fraud results in billions of dollars in losses annually, inflating premiums for policyholders and straining insurer profitability. This project builds a robust, scalable fraud detection system that automates the identification of suspicious claims, prioritizes cases for investigation, and streamlines claims management processes.
@@ -32,6 +42,23 @@ Insurance fraud in the auto sector is a pervasive issue, with fraudulent claims 
 - **Enhances efficiency**: Streamlines the claims management pipeline, reducing processing time and costs.
 
 The system uses historical claim data to train ML models, enabling insurers to proactively combat fraud and mitigate financial losses.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## Documentation Book - https://online.fliphtml5.com/jgrqn/dtra/
+
+## PPT 
+
+![Slide1](https://github.com/user-attachments/assets/1b1ed49f-3e2b-4f1c-98f2-7879c8bb888f)
+![Slide2](https://github.com/user-attachments/assets/153b5fd0-cc84-4bb7-aa6a-00a02fb615c3)
+![Slide3](https://github.com/user-attachments/assets/be33f1e8-1bf6-4d43-8554-5d3003a3c374)
+![Slide4](https://github.com/user-attachments/assets/6f70a4f2-0d4e-4c06-a3f3-7f4a0f1714dd)
+![Slide5](https://github.com/user-attachments/assets/f5b349f9-ed73-4d55-a85f-e79765c94bdf)
+![Slide6](https://github.com/user-attachments/assets/849e7203-d1e2-4012-b7c2-81af26d32dbc)
+![Slide7](https://github.com/user-attachments/assets/c72e2d6a-eb77-4cfe-bafe-86ed38e996be)
+![Slide8](https://github.com/user-attachments/assets/b2bbaba1-8ca0-43ee-86d3-e1f710f45574)
+![Slide9](https://github.com/user-attachments/assets/a440a392-5edc-4d9a-8842-91237a8e8825)
+![Slide10](https://github.com/user-attachments/assets/d2450c2a-45cf-4aae-bb83-83cd60673744)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -440,4 +467,10 @@ The **AI-Powered Fraud Detection in Auto Insurance** project delivers a robust, 
 
 The project is well-structured, reproducible, and extensible, with clear paths for deployment (Streamlit, API integration) and future enhancements (deep learning, time-series analysis). By automating fraud detection, this solution empowers insurers to reduce losses, optimize claims management, and enhance customer trust.
 
-For further details or to explore the code, visit the repository: [auto-insurance-fraud-detection](https://github.com/your-username/auto-insurance-fraud-detection). For API integration, refer to [xAI’s API service](https://x.ai/api).
+
+
+<div align="right">
+
+🔝 [**Back to Top**](#top)
+
+</div>
