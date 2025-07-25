@@ -1,0 +1,95 @@
+columns
+Customer_Life_Value1
+Age_Insured
+Policy_BI
+Policy_Ded
+Policy_Premium
+Umbrella_Limit
+Insured_Zip
+Occupation
+Hobbies
+Capital_Gains
+Capital_Loss
+Accident_Location
+Accident_Hour
+Num_of_Vehicles_Involved
+Bodily_Injuries
+Witnesses
+Auto_Make
+Auto_Model
+Auto_Year
+Vehicle_Cost
+Annual_Mileage
+DiffIN_Mileage
+Low_Mileage_Discount
+Commute_Discount
+Total_Claim
+Injury_Claim
+Property_Claim
+Vehicle_Claim
+Days_Between_Policy_Start_and_Claim
+Days_To_Policy_Expiry
+Policy_Duration
+Policy_Premium_to_Coverage_Ratio
+High_Deductible_Flag
+Days_Between_Accident_and_Claim
+Weekend_Accident
+Night_Accident
+Accident_To_Policy_Start_Gap
+Vehicle_Age
+High_Mileage_Flag
+Mileage_Change
+Claim_Amount_to_Vehicle_Cost_Ratio
+Claim_Severity_Index
+Multiple_Claims_Flag
+Out_of_State_Claim
+Garage_Location_Mismatch
+Policy_State_IN
+Policy_State_OH
+Gender_MALE
+Education_College
+Education_High School
+Education_JD
+Education_MD
+Education_Masters
+Education_PhD
+Insured_Relationship_not-in-family
+Insured_Relationship_other-relative
+Insured_Relationship_own-child
+Insured_Relationship_unmarried
+Insured_Relationship_wife
+Garage_Location_Yes
+Accident_Type_Parked Car
+Accident_Type_Single Vehicle Collision
+Accident_Type_Vehicle Theft
+Collision_Type_Rear Collision
+Collision_Type_Side Collision
+Collision_Type_Unknown
+Accident_Severity_Minor Damage
+Accident_Severity_Total Loss
+Accident_Severity_Trivial Damage
+authorities_contacted_Ambulance
+authorities_contacted_Fire
+authorities_contacted_Other
+authorities_contacted_Police
+Acccident_State_NY
+Acccident_State_OH
+Acccident_State_PA
+Acccident_State_SC
+Acccident_State_VA
+Acccident_State_WV
+Acccident_City_Columbus
+Acccident_City_Hillsdale
+Acccident_City_Northbend
+Acccident_City_Northbrook
+Acccident_City_Riverwood
+Acccident_City_Springfield
+Property_Damage_Unknown
+Property_Damage_YES
+Police_Report_NO
+Police_Report_YES
+Vehicle_Color_Blue
+Vehicle_Color_Gray
+Vehicle_Color_Red
+Vehicle_Color_Silver
+Vehicle_Color_White
