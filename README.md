@@ -176,4 +176,4 @@ This project is open-sourced under the [MIT License](LICENSE).
 ## 👨‍💻 Developed By
 
 * **Abhisek Panda** – [GitHub](https://github.com/abhisek2004)
-* Team: *SmartCare Ninjas*
+* Team: *  *
