@@ -45,6 +45,23 @@ The system uses historical claim data to train ML models, enabling insurers to p
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## Documentation Book - https://online.fliphtml5.com/jgrqn/dtra/
+
+## PPT 
+
+![Slide1](https://github.com/user-attachments/assets/1b1ed49f-3e2b-4f1c-98f2-7879c8bb888f)
+![Slide2](https://github.com/user-attachments/assets/153b5fd0-cc84-4bb7-aa6a-00a02fb615c3)
+![Slide3](https://github.com/user-attachments/assets/be33f1e8-1bf6-4d43-8554-5d3003a3c374)
+![Slide4](https://github.com/user-attachments/assets/6f70a4f2-0d4e-4c06-a3f3-7f4a0f1714dd)
+![Slide5](https://github.com/user-attachments/assets/f5b349f9-ed73-4d55-a85f-e79765c94bdf)
+![Slide6](https://github.com/user-attachments/assets/849e7203-d1e2-4012-b7c2-81af26d32dbc)
+![Slide7](https://github.com/user-attachments/assets/c72e2d6a-eb77-4cfe-bafe-86ed38e996be)
+![Slide8](https://github.com/user-attachments/assets/b2bbaba1-8ca0-43ee-86d3-e1f710f45574)
+![Slide9](https://github.com/user-attachments/assets/a440a392-5edc-4d9a-8842-91237a8e8825)
+![Slide10](https://github.com/user-attachments/assets/d2450c2a-45cf-4aae-bb83-83cd60673744)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 📊 Dataset Description
 
 The dataset consists of **structured claim records** with over **50 features**, capturing a wide range of information about policyholders, claims, accidents, and financial details. The data is stored in `auto_insurance.csv`, with a detailed schema provided in `data_dictionary.txt`.
