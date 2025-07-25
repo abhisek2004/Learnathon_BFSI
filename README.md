@@ -1,9 +1,5 @@
 # Learnathon_BFSI
 
-Here is a **detailed and professional README.md file** for your project titled:
-
----
-
 # 🚗 AI-Powered Fraud Detection in Auto Insurance
 
 ### 🧠 Predictive Modeling for Smarter Claims Management
