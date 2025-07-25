@@ -20,7 +20,7 @@ The **AI-Powered Fraud Detection in Auto Insurance** project leverages advanced 
 
 The solution combines **data preprocessing**, **feature engineering**, **model training**, and **evaluation** to deliver high accuracy and reliability. By analyzing structured historical claim data, the system flags potentially fraudulent claims in real-time, reducing manual effort and improving operational efficiency.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📌 Problem Statement
 
@@ -33,7 +33,7 @@ Insurance fraud in the auto sector is a pervasive issue, with fraudulent claims 
 
 The system uses historical claim data to train ML models, enabling insurers to proactively combat fraud and mitigate financial losses.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 Dataset Description
 
@@ -76,7 +76,7 @@ The dataset consists of **structured claim records** with over **50 features**, 
 
 For a complete schema, refer to [`data_dictionary.txt`](./data_dictionary.txt).
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ⚙️ Features of the Solution
 
@@ -128,7 +128,7 @@ The fraud detection system incorporates a comprehensive pipeline with the follow
    - Applies the best-performing model (Random Forest + SMOTE) to predict fraud on unseen claims.
    - Saves predictions for integration into claims management systems.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📂 Project Structure
 
@@ -160,7 +160,7 @@ The project is organized for modularity and reproducibility:
 - **models/saved_model.pkl**: Stores the serialized Random Forest model for deployment.
 - **requirements.txt**: Lists Python packages required to run the project.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🧪 Algorithms Used
 
@@ -186,7 +186,7 @@ The project evaluates **10 ML classifiers** to identify the best-performing mode
   - **Low False Positives**: Reduces unnecessary investigations, maintaining customer satisfaction.
   - **Robustness**: Handles complex feature interactions and non-linear patterns effectively.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🧠 How It Works (Pipeline Overview)
 
@@ -258,7 +258,7 @@ joblib.dump(model, "models/saved_model.pkl")
 - **Evaluation**: Focuses on recall and F1-score to prioritize fraud detection while maintaining precision.
 - **Model Persistence**: Saves the trained Random Forest model using `joblib` for deployment.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📌 Results & Insights
 
@@ -339,7 +339,7 @@ Here’s an example of a bar plot comparing model performance (assuming hypothet
 }
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠 Installation & Usage
 
@@ -384,7 +384,7 @@ imbalanced-learn==0.11.0
 xgboost==2.0.0
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📌 Future Enhancements
 
@@ -413,7 +413,7 @@ To further improve the system, the following enhancements are proposed:
 6. **Explainability**:
    - Implement SHAP (SHapley Additive exPlanations) or LIME to provide interpretable explanations for fraud predictions, aiding adjuster decision-making.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🧪 Additional Considerations
 
@@ -432,7 +432,7 @@ To further improve the system, the following enhancements are proposed:
 - **Generalization**: The model may need retraining for different insurance markets or regions.
 - **Evolving Fraud Patterns**: Fraudsters adapt over time, requiring regular model updates and monitoring.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📌 Conclusion
 
