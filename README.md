@@ -467,4 +467,10 @@ The **AI-Powered Fraud Detection in Auto Insurance** project delivers a robust, 
 
 The project is well-structured, reproducible, and extensible, with clear paths for deployment (Streamlit, API integration) and future enhancements (deep learning, time-series analysis). By automating fraud detection, this solution empowers insurers to reduce losses, optimize claims management, and enhance customer trust.
 
-For further details or to explore the code, visit the repository: [auto-insurance-fraud-detection](https://github.com/your-username/auto-insurance-fraud-detection). For API integration, refer to [xAI’s API service](https://x.ai/api).
+
+
+<div align="right">
+
+🔝 [**Back to Top**](#top)
+
+</div>
