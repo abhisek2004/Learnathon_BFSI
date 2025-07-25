@@ -1,10 +1,18 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 # Learnathon_BFSI
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## TEAM (SC1)4TH_10
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 🚗 AI-Powered Fraud Detection in Auto Insurance
 
 ## 🧠 Predictive Modeling for Smarter Claims Management
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # Team Information: 4TH_TEAM_10
 
@@ -14,6 +22,8 @@
 | Soumya Ranjan Mohapatra  | CSE        | 4th Year  | 22CSE215   | 22UG010348     | 22cse215.soumyaranjanmohapatra@giet.edu    | 4TH_TEAM_10 |
 | Debabrata Mishra         | CSE        | 4th Year  | 22CSE140   | 22UG010273     | 22cse140.debabratamishra@giet.edu          | 4TH_TEAM_10 |
 | Abhisek Panda            | CSE        | 4th Year  | 22CSE072   | 22UG010159     | 22cse072.abhisekpanda@giet.edu             | 4TH_TEAM_10 |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 📌 Overview
 The **AI-Powered Fraud Detection in Auto Insurance** project leverages advanced machine learning (ML) techniques to identify fraudulent claims in the auto insurance industry. Insurance fraud results in billions of dollars in losses annually, inflating premiums for policyholders and straining insurer profitability. This project builds a robust, scalable fraud detection system that automates the identification of suspicious claims, prioritizes cases for investigation, and streamlines claims management processes.
